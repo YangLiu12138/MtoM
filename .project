@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>mybatis_08_03_一键生成Maven</name>
+	<name>基于Maven的一键生成mapper（Mybatits）</name>
 	<comment></comment>
 	<projects>
 	</projects>
